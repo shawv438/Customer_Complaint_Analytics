@@ -1,0 +1,11 @@
+ticket_id,complaint_text,date
+T1001,"Order not delivered. No updates for 5 days",2025-06-01
+T1002,"Payment deducted but no confirmation. Please help!",2025-06-01
+T1003,"Product damaged on arrival. Need a replacement ASAP",2025-06-02
+T1004,"Still waiting for refund. It's been 10 days!",2025-06-03
+T1005,"Received wrong item. Want full refund immediately",2025-06-03
+T1006,"Item was supposed to arrive on Monday. No sign yet.",2025-06-04
+T1007,"Charged twice for same item. Please fix this quickly",2025-06-04
+T1008,"No invoice received. Need for tax claim",2025-06-04
+T1009,"Refund processed but amount not credited yet",2025-06-05
+T1010,"Delay in shipping. Tracking info not working",2025-06-05
